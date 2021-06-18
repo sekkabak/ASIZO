@@ -1,0 +1,8 @@
+﻿cl : command line warning D9025: overriding '/D_CRT_SECURE_NO_WARNINGS' with '/U_CRT_SECURE_NO_WARNINGS'
+  main.cpp
+C:\Users\pc\source\repos\Project1\Project1\main.cpp(668,11): warning C4101: 'dwThread': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 509 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\pc\source\repos\Project1\Release\Project1.exe
